@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (DSA_Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Course.cpp
+  Project_Main.cpp
+  Generating Code...
+D:\Folders\pdf\DSA_PROJECT\DSA_Project\DSA_Project\Course.cpp(264,1): warning C4717: 'Course::students': recursive on all control paths, function will cause runtime stack overflow
+  DSA_Project.vcxproj -> D:\Folders\pdf\DSA_PROJECT\DSA_Project\x64\Debug\DSA_Project_Yash.exe

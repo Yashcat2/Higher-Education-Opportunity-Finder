@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (DSA_Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Course.cpp
+C:\Users\Yashodha\source\repos\DSA_Project\DSA_Project\Course.cpp(209,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Yashodha\source\repos\DSA_Project\DSA_Project\Course.cpp(308): warning C4717: 'Course::students': recursive on all control paths, function will cause runtime stack overflow
+  DSA_Project.vcxproj -> C:\Users\Yashodha\source\repos\DSA_Project\Debug\DSA_Project_Yash.exe
